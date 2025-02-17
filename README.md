@@ -18,5 +18,5 @@ Welcome to the **House Price Prediction** project! This project uses **Linear Re
 ## 🔧 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Internship_projects.git
+   git clone https://github.com/ahsan123shahid/Internship_projects.git
    cd Internship_projects
